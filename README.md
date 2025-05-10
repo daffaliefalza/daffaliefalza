@@ -4,7 +4,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
 
 <h2>About Me</h2>
-<hr>
+
 - 🌱 I’m currently working on **Personal projects & client projects**
 
 - 👨‍💻 Some of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
