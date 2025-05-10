@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Andi Daffa Liefalza</h1>
 <h3 align="center">A passionate developer from Bekasi, Indonesia.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
 
+<h2>About Me</h2>
+<hr>
 - 🌱 I’m currently working on **Personal projects & client projects**
 
 - 👨‍💻 Some of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
@@ -12,12 +14,14 @@
 - 📫 How to reach me **liefalzaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<hr>
 <p align="left">
 <a href="https://linkedin.com/in/andidaffaliefalza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andidaffaliefalza" height="30" width="40" /></a>
 <a href="https://instagram.com/daffaliefalza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daffaliefalza" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+<hr>
 <p align="left"> 
   <!-- HTML -->
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
