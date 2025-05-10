@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently working on **Personal projects & client projects**
 
-- 👨‍💻 All of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
+- 👨‍💻 Some of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
 
 - 💬 Ask me about **Web Development & Mobile Development**
 
