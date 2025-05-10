@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
 
-- 🌱 I’m currently learning **JavaScript and its endless frameworks**
+- 🌱 I’m currently working on **Personal projects & client projects**
 
 - 👨‍💻 All of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
 
-- 💬 Ask me about **HTML, CSS, JavaScript, React**
+- 💬 Ask me about **Web Development & Mobile Development**
 
 - 📫 How to reach me **liefalzaa@gmail.com**
 
