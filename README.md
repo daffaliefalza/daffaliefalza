@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently working on **Personal projects & client projects**
 
-- 👨‍💻 Some of my projects are available at [https://daffaliefalza.netlify.app/](https://daffaliefalza.netlify.app/)
-
 - 💬 Ask me about **Web Development & Mobile Development**
 
 - 📫 How to reach me **liefalzaa@gmail.com**
