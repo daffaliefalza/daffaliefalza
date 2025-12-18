@@ -5,11 +5,9 @@
 
 <h2>About</h2>
 
- - Software Engineer
+Web Developer with a Bachelor's degree in Information Systems, certified by Komdigi (formerly known as Kominfo) as a Web Developer. I specialize in creating responsive, user-friendly websites and applications.
 
--  Software Engineering graduate of Korea Asean Digital Academy 
-
--  How to reach me **liefalzaa@gmail.com**
+Throughout my formal education, I delved deep into web development, taking intermediate and advanced courses. I learned the core fundamentals of the web, including HTML, CSS, and JavaScript, and progressed to modern frameworks such ReactJS and NextJS.
 
 <h2 align="left">Connect with me:</h2>
 
