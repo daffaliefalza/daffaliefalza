@@ -1,15 +1,15 @@
-<h1 align="center">Hi 👋, I'm Andi Daffa Liefalza</h1>
-<h3 align="center">A passionate developer from Bekasi, Indonesia.</h3>
+<h1>Hi 👋, I'm Andi Daffa Liefalza</h1>
+<h3>A passionate developer from Bekasi, Indonesia.</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
+<p > <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
 
-<h2>About Me</h2>
+<h2>About</h2>
 
-- 🌱 I’m currently working on **Personal projects & client projects**
+ - Software Engineer
 
-- 💬 Ask me about **Web Development & Mobile Development**
+-  Software Engineering graduate of Korea Asean Digital Academy 
 
-- 📫 How to reach me **liefalzaa@gmail.com**
+-  How to reach me **liefalzaa@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
 
@@ -87,8 +87,8 @@
 </p>
 
 
-<p align="left">   </p>
+<!-- <p align="left">   </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffaliefalza&show_icons=true&locale=en&layout=compact" alt="daffaliefalza" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daffaliefalza&show_icons=true&locale=en&layout=compact" alt="daffaliefalza" /></p> -->
 
 
