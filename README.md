@@ -1,11 +1,11 @@
 <h1>Hi 👋, I'm Andi Daffa Liefalza</h1>
-<h3>A passionate developer from Bekasi, Indonesia.</h3>
+<h3>A developer from Bekasi, Indonesia.</h3>
 
 <p > <img src="https://komarev.com/ghpvc/?username=daffaliefalza&label=Profile%20views&color=0e75b6&style=flat" alt="daffaliefalza" /> </p>
 
 <h2>About</h2>
 
-Web Developer with a Bachelor's degree in Information Systems, certified by Komdigi (formerly known as Kominfo) as a Web Developer. I specialize in creating responsive, user-friendly websites and applications.
+Developer with a Bachelor's degree in Information Systems, certified by Komdigi (formerly known as Kominfo) as a Web Developer. Specialize in creating responsive, user-friendly websites and app.
 
 Throughout my formal education, I delved deep into web development, taking intermediate and advanced courses. I learned the core fundamentals of the web, including HTML, CSS, and JavaScript, and progressed to modern frameworks such ReactJS and NextJS.
 
